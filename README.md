@@ -1,5 +1,9 @@
 # Fortune in a Pot
 
+[![make.fun](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9.svg)](https://make.fun/c/u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![Rank](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/satscribe-dev/u-golden-heron-44-fortune-in-a-pot-ded981e9/rank.svg)](https://make.fun/c/u-golden-heron-44-fortune-in-a-pot-ded981e9)
+[![Reward](https://make.fun/badge/u-golden-heron-44-fortune-in-a-pot-ded981e9/satscribe-dev/u-golden-heron-44-fortune-in-a-pot-ded981e9/reward.svg)](https://make.fun/c/u-golden-heron-44-fortune-in-a-pot-ded981e9)
+
 Entry for the make.fun bounty
 `u-golden-heron-44-fortune-in-a-pot-ded981e9` — one kind, funny fortune
 for a houseplant, at most 120 characters.
